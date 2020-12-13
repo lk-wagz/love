@@ -4,6 +4,7 @@
     <h1>登录</h1>
     <h5>{{demo}}</h5>
     <h3>{{lk}}</h3>
+    <p>love</p>
 
   </div>
 </template>
