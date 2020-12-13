@@ -3,6 +3,7 @@
   <div>
     <h1>登录</h1>
     <h5>{{demo}}</h5>
+    <h3>{{lk}}</h3>
 
   </div>
 </template>
@@ -12,7 +13,9 @@ export default {
   props: [],
   components: {},
   data() {
-    return {};
+    return {
+        name:"lk"
+    };
   },
   computed: {
     ...mapGetters({
